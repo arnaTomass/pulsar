@@ -51,10 +51,6 @@ flexible messaging model and an intuitive client API.</description>
       <organizationUrl>https://pulsar.apache.org/</organizationUrl>
     </developer>
   </developers>
-<properties>
-  <sonar.organization>arnatomass</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
   <licenses>
     <license>
       <name>Apache License, Version 2.0</name>
