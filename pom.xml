@@ -81,8 +81,8 @@ flexible messaging model and an intuitive client API.</description>
     <pulsar.broker.compiler.release>${maven.compiler.target}</pulsar.broker.compiler.release>
     <pulsar.client.compiler.release>8</pulsar.client.compiler.release>
 
-    <sonar.organization>arnatomass<sonar.organization>
-    <sonar.host.url>https://sonarcloud.io<sonar.host.url>
+    <sonar.organization>arnatomass</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         
     <pulsar.client.python.version>3.2.0</pulsar.client.python.version>
 
